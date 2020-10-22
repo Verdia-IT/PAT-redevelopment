@@ -25,7 +25,7 @@ SECRET_KEY = 'ml@^*22hfetp^8u+&cda^oi@lyqwn3#0b)^kxe=oefucspw^#-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1']
 
 AUTH_USER_MODEL = 'accounts.VerdiaUser'
 
